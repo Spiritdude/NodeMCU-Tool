@@ -34,7 +34,7 @@
   "dependencies": {
     "cli-progress": "^1.4.0",
     "colors": "^1.1.2",
-    "commander": "^2.9.0",
+    "commander": "^2.14.1",
     "logging-facility": "^1.1.0",
     "luamin": "^1.0.4",
     "prompt": "^0.2.14",
